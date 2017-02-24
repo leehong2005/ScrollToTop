@@ -1,4 +1,4 @@
-package com.megabox.android.scroll;
+package com.megabox.android.scrolltotop;
 
 /**
  * @author lihong
